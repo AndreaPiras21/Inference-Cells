@@ -1,4 +1,4 @@
-# Inference of lineage hierarchies, growth and drug response mechanisms in cancer cell populations without tracking
+# Inference of lineage hierarchies, growth and drug response mechanisms in cancer cell populations -- without tracking
 This repository contains sample scripts referenced in the paper entitled: "Inference of lineage hierarchies, growth, and drug response mechanisms in cell populations without tracking", posted on BiorXiv:
 
 The following scripts are included:
