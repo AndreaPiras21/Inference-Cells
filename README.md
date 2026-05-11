@@ -18,6 +18,9 @@ A Python script to numerically simulate a 1-type Bienaymé-Galton-Watson branchi
 ## GW2_generalizable 
 A Python script to numerically simulate a 2-type Bienaymé-Galton-Watson branching process.
 
+## GW4
+This Julia script allows to simulate a 4-type Bienaymé-Galton-Watson branching process.
+
 ## MCEM_algorithm_GW1
 This script written in Python implements the Monte-Carlo Expection-Maximization algorithm described in the main text, using a 1-type Bienaymé-Galton-Watson branching process.
 
