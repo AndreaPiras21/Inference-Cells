@@ -21,4 +21,7 @@ A Python script to numerically simulate a 2-type Bienaymé-Galton-Watson branchi
 ## MCEM_algorithm_GW1
 This script written in Python implements the Monte-Carlo Expection-Maximization algorithm described in the main text, using a 1-type Bienaymé-Galton-Watson branching process.
 
+## MCEM_GW4
+This script written in Julia implements an optimized version of the Monte-Carlo Expectation-Maximization algorithm with 4 cell types, and use a 4-type Bienaymé-Galton-Watson branching process.  
+
 
